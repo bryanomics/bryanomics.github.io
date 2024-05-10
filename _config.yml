@@ -5,8 +5,7 @@ description:         'Your simple guide to understanding economics in everyday l
 url:                 https://bryanomics.github.io
 baseurl:             ''
 paginate:            5
-permalink:           /:title:output_ext
-
+permalink:           /:title
 # About/contact
 author:
   name:              Bryanomics
