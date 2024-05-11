@@ -45,7 +45,7 @@ html {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Plus Jakarta Sans", Helvetica, Arial, sans-serif;
+  font-family: "Spectral", Helvetica, Arial, sans-serif;
   font-weight: 400;
   color: #313131;
   letter-spacing: -.025rem;
@@ -104,6 +104,8 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0;
   color: #505050;
   text-align: center;
+  font-family: "Plus Jakarta Sans", Helvetica, Arial, sans-serif;
+  font-weight: 600;
 }
 .masthead-title a {
   color: #505050;
@@ -313,7 +315,7 @@ a.sidebar-nav-item:focus {
 .post-title,
 .post-title a {
   color: #303030;
-  font-family: "Plus Jakarta Sans", sans-serif;
+  font-family: "Spectral", sans-serif;
   font-optical-sizing: auto;
   font-weight: 700;
   font-size: 1.25em;
