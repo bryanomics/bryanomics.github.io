@@ -3,9 +3,6 @@ layout: post
 title: Welcome to Bryanomics!
 ---
 
-
-**Welcome to Bryanomics**
-
 At Bryanomics, we're all about making economics easy to understand for everyone. We noticed that economics can be confusing with all its fancy terms and theories. So, we decided to create Bryanomics to simplify it all.
 
 **What We Do**
