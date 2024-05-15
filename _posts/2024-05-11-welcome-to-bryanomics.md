@@ -7,4 +7,4 @@ title: Welcome to Bryanomics!
 
 Imagine economics as a big puzzle. We're here to help you put the pieces together. Whether you're trying to figure out why prices go up or down, or how businesses make decisions, we've got you covered. We break down complex economic ideas into simple, everyday language that anyone can understand.
 
-Ready to explore the world of economics without the headache? Dive into our articles and videos to learn something new. And if you ever have a question or just want to say hi, shoot us an email at bryanomics@outlook.com. Let's make economics fun and easy together!
+Ready to explore the world of economics without the headache? Dive into our articles and videos to learn something new. Let's make economics fun and easy together!
