@@ -558,6 +558,13 @@ a.pagination-item:hover {
   box-shadow: .25rem 0 .5rem rgba(0,0,0,.1);
 }
 
+/* iframe 100 percent for YouTube video etc */
+
+iframe { 
+  width: 100%;
+  aspect-ratio: 16 / 9;
+}
+
 /* Only one tweak for a reverse layout */
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
